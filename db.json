@@ -1,0 +1,195 @@
+{
+   "meals":[
+      {
+         "strMeal":"Baingan Bharta",
+         "strMealThumb":"https:\/\/www.themealdb.com\/images\/media\/meals\/urtpqw1487341253.jpg",
+         "idMeal":"52807",
+         "strDesc":"The eggplants are roasted or grilled on direct flame over the stovetop or on red hot charcoal which gives them a smoky flavor and taste. I share a simply delicious family heirloom recipe of Eggplant Bharta that is not overloaded with spices so that the smoky flavors of the roasted eggplant and tanginess of the tomatoes come through in the dish."
+      },
+      {
+         "strMeal":"Chickpea Fajitas",
+         "strMealThumb":"https:\/\/www.themealdb.com\/images\/media\/meals\/tvtxpq1511464705.jpg",
+         "idMeal":"52870",
+         "strDesc":"Onion, peppers, and mushrooms are sautéed and served with spicy roasted chickpeas to create these healthy and delicious vegetarian fajitas. Garnish with diced tomatoes, avocado slices, and a dollop of Greek yogurt, if desired."
+      },
+      {
+         "strMeal":"Dal fry",
+         "strMealThumb":"https:\/\/www.themealdb.com\/images\/media\/meals\/wuxrtu1483564410.jpg",
+         "idMeal":"52785",
+         "strDesc":"popular Indian lentil recipe that is made with toor dal (pigeon pea lentils), onions, tomatoes and spices. Relish this flavorful, mildly-spiced, creamy lentil dish with roti, naan or your favorite steamed rice."
+      },
+      {
+         "strMeal":"Egg Drop Soup",
+         "strMealThumb":"https:\/\/www.themealdb.com\/images\/media\/meals\/1529446137.jpg",
+         "idMeal":"52955",
+         "strDesc":"It’s typically made with lightly-seasoned veggie broth, and filled with delicious egg “ribbons”, which are created by whisking raw eggs into the simmering broth."
+      },
+      {
+         "strMeal":"Flamiche",
+         "strMealThumb":"https:\/\/www.themealdb.com\/images\/media\/meals\/wssvvs1511785879.jpg",
+         "idMeal":"52906",
+         "strDesc":"A traditional dish of the Picardy region in France and is a favorite among the foodies. Made using pie crust, leeks, milk, eggs, butter and salt and black pepper, this snack recipe is not just filling for the stomach but also quite delicious"
+      },
+      {
+         "strMeal":"Ful Medames",
+         "strMealThumb":"https:\/\/www.themealdb.com\/images\/media\/meals\/lvn2d51598732465.jpg",
+         "idMeal":"53025",
+         "strDesc":"stewed fava beans (or broad beans), typically seasoned with a little ground cumin and finished with good extra virgin olive oil. Egyptians serve with warm pita bread and jazz it up with lemon juice, fresh veggies and herbs."
+      },
+      {
+         "strMeal":"Gigantes Plaki",
+         "strMealThumb":"https:\/\/www.themealdb.com\/images\/media\/meals\/b79r6f1585566277.jpg",
+         "idMeal":"53012",
+         "strDesc":"a classic Greek recipe, consisting of ‘giant’ beans baked in a tomato sauce along with plenty of fresh herbs, which give a really unique taste."
+      },
+      {
+         "strMeal":"Kafteji",
+         "strMealThumb":"https:\/\/www.themealdb.com\/images\/media\/meals\/1bsv1q1560459826.jpg",
+         "idMeal":"52971",
+         "strDesc":"Kafteji is a traditional Tunisian dish made with fried vegetables. Typical veggies used in the dish include eggplants, bell peppers, potatoes, tomatoes, zucchinis, and pumpkins. The vegetables are fried, chopped, then combined with (often fried) eggs and seasonings."
+      },
+      {
+         "strMeal":"Kidney Bean Curry",
+         "strMealThumb":"https:\/\/www.themealdb.com\/images\/media\/meals\/sywrsu1511463066.jpg",
+         "idMeal":"52868",
+         "strDesc":"This curry is originally an Indian Punjabi recipe, it’s called Rajma, Rajma Masala, Rajma dal or Rajma Chawal. It’s made with kidney beans or “Rajma” cooked in a thick tomato-based gravy and traditionally served over white rice but could also be served with naan bread. In India, it’s called Rajma"
+      },
+      {
+         "strMeal":"Koshari",
+         "strMealThumb":"https:\/\/www.themealdb.com\/images\/media\/meals\/4er7mj1598733193.jpg",
+         "idMeal":"53027",
+         "strDesc":"Koshary, kushari or koshari is Egypt's national dish and a widely popular street food. A traditional Egyptian staple, mixing pasta, rice and brown lentils, and topped with a zesty tomato sauce, garlic vinegar and garnished with chickpeas and crispy fried onions."
+      },
+      {
+         "strMeal":"Leblebi Soup",
+         "strMealThumb":"https:\/\/www.themealdb.com\/images\/media\/meals\/x2fw9e1560460636.jpg",
+         "idMeal":"52973",
+         "strDesc":
+      },
+      {
+         "strMeal":"Matar Paneer",
+         "strMealThumb":"https:\/\/www.themealdb.com\/images\/media\/meals\/xxpqsy1511452222.jpg",
+         "idMeal":"52865",
+         "strDesc":
+      },
+      {
+         "strMeal":"Moroccan Carrot Soup",
+         "strMealThumb":"https:\/\/www.themealdb.com\/images\/media\/meals\/jcr46d1614763831.jpg",
+         "idMeal":"53047"
+         "strDesc":
+      },
+      {
+         "strMeal":"Mushroom & Chestnut Rotolo",
+         "strMealThumb":"https:\/\/www.themealdb.com\/images\/media\/meals\/ssyqwr1511451678.jpg",
+         "idMeal":"52864"
+      },
+      {
+         "strMeal":"Proven\u00e7al Omelette Cake",
+         "strMealThumb":"https:\/\/www.themealdb.com\/images\/media\/meals\/qwtrtp1511799242.jpg",
+         "idMeal":"52921"
+         "strDesc":
+      },
+      {
+         "strMeal":"Ratatouille",
+         "strMealThumb":"https:\/\/www.themealdb.com\/images\/media\/meals\/wrpwuu1511786491.jpg",
+         "idMeal":"52908",
+         "strDesc":
+      },
+      {
+         "strMeal":"Ribollita",
+         "strMealThumb":"https:\/\/www.themealdb.com\/images\/media\/meals\/xrrwpx1487347049.jpg",
+         "idMeal":"52811",
+         "strDesc":
+      },
+      {
+         "strMeal":"Roasted Eggplant With Tahini, Pine Nuts, and Lentils",
+         "strMealThumb":"https:\/\/www.themealdb.com\/images\/media\/meals\/ysqrus1487425681.jpg",
+         "idMeal":"52816",
+         "strDesc":
+      },
+      {
+         "strMeal":"Shakshuka",
+         "strMealThumb":"https:\/\/www.themealdb.com\/images\/media\/meals\/g373701551450225.jpg",
+         "idMeal":"52963",
+         "strDesc":
+      },
+      {
+         "strMeal":"Smoky Lentil Chili with Squash",
+         "strMealThumb":"https:\/\/www.themealdb.com\/images\/media\/meals\/uwxqwy1483389553.jpg",
+         "idMeal":"52784",
+         "strDesc":
+      },
+      {
+         "strMeal":"Spanish Tortilla",
+         "strMealThumb":"https:\/\/www.themealdb.com\/images\/media\/meals\/quuxsx1511476154.jpg",
+         "idMeal":"52872",
+         "strDesc":
+      },
+      {
+         "strMeal":"Spicy Arrabiata Penne",
+         "strMealThumb":"https:\/\/www.themealdb.com\/images\/media\/meals\/ustsqw1468250014.jpg",
+         "idMeal":"52771",
+         "strDesc":
+      },
+      {
+         "strMeal":"Spicy North African Potato Salad",
+         "strMealThumb":"https:\/\/www.themealdb.com\/images\/media\/meals\/urtwux1486983078.jpg",
+         "idMeal":"52797",
+         "strDesc":
+      },
+      {
+         "strMeal":"Spinach & Ricotta Cannelloni",
+         "strMealThumb":"https:\/\/www.themealdb.com\/images\/media\/meals\/wspuvp1511303478.jpg",
+         "idMeal":"52849",
+         "strDesc":
+      },
+      {
+         "strMeal":"Squash linguine",
+         "strMealThumb":"https:\/\/www.themealdb.com\/images\/media\/meals\/wxswxy1511452625.jpg",
+         "idMeal":"52866",
+         "strDesc":
+      },
+      {
+         "strMeal":"Stovetop Eggplant With Harissa, Chickpeas, and Cumin Yogurt",
+         "strMealThumb":"https:\/\/www.themealdb.com\/images\/media\/meals\/yqwtvu1487426027.jpg",
+         "idMeal":"52817",
+         "strDesc":
+      },
+      {
+         "strMeal":"Summer Pistou",
+         "strMealThumb":"https:\/\/www.themealdb.com\/images\/media\/meals\/rqtxvr1511792990.jpg",
+         "idMeal":"52911",
+         "strDesc":
+      },
+      {
+         "strMeal":"Tahini Lentils",
+         "strMealThumb":"https:\/\/www.themealdb.com\/images\/media\/meals\/vpxyqt1511464175.jpg",
+         "idMeal":"52869",
+         "strDesc":
+      },
+      {
+         "strMeal":"Tamiya",
+         "strMealThumb":"https:\/\/www.themealdb.com\/images\/media\/meals\/n3xxd91598732796.jpg",
+         "idMeal":"53026",
+         "strDesc":
+      },
+      {
+         "strMeal":"Vegetarian Casserole",
+         "strMealThumb":"https:\/\/www.themealdb.com\/images\/media\/meals\/vptwyt1511450962.jpg",
+         "idMeal":"52863",
+         "strDesc":
+      },
+      {
+         "strMeal":"Vegetarian Chilli",
+         "strMealThumb":"https:\/\/www.themealdb.com\/images\/media\/meals\/wqurxy1511453156.jpg",
+         "idMeal":"52867",
+         "strDesc":
+      },
+      {
+         "strMeal":"Yaki Udon",
+         "strMealThumb":"https:\/\/www.themealdb.com\/images\/media\/meals\/wrustq1511475474.jpg",
+         "idMeal":"52871",
+         "strDesc":
+      }
+   ]
+}
