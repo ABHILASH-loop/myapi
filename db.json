@@ -81,7 +81,8 @@
       {
          "strMeal":"Mushroom & Chestnut Rotolo",
          "strMealThumb":"https:\/\/www.themealdb.com\/images\/media\/meals\/ssyqwr1511451678.jpg",
-         "idMeal":"52864"
+         "idMeal":"52864",
+         "strDesc":""
       },
       {
          "strMeal":"Proven\u00e7al Omelette Cake",
